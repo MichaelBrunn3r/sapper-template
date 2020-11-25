@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "sapper": "^0.28.0",
-    "svelte": "^3.30.0"
+    "svelte": "^3.17.3"
   },
   "merge-configs": {
     "rollup": {
